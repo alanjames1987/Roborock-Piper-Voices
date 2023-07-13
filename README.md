@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/main/.attachments/piper-light-mode.png#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/main/.attachments/piper-dark-mode.png#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/master/.attachments/piper-light-mode.png#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/master/.attachments/piper-dark-mode.png#gh-dark-mode-only">
 </p>
 
 <h1 align="center">
