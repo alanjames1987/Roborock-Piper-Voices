@@ -3,6 +3,11 @@
     <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/master/.attachments/piper-dark-mode.png#gh-dark-mode-only">
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/master/.attachments/roborock-light-mode.png#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/alanjames1987/Roborock-Piper-Voices/master/.attachments/roborock-dark-mode.png#gh-dark-mode-only">
+</p>
+
 <h1 align="center">
 
 [Roborock Piper Voices](https://github.com/alanjames1987/Roborock-Piper-Voice)
